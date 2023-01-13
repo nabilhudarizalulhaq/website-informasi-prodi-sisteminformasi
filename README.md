@@ -1,7 +1,5 @@
 # website-prodi-sistem informasi
-Download source : https://github.com/nabilhudarizalulhaq
-/
-website-informasi-prodi-sisteminformasi
+Download source : https://github.com/nabilhudarizalulhaq/website-informasi-prodi-sisteminformasi
 
 Fitur Website Halaman Depan :
 
